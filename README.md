@@ -8,7 +8,6 @@ Personal programming exercises, competition solutions, and learning examples.
 | [codejam-python](codejam-python/) | Google Code Jam and other contest solutions in Python. |
 | [advent-of-code](advent-of-code/) | Advent of Code solutions, organized by year and language. |
 | [tuenti-challenge](tuenti-challenge/) | Tuenti Challenge solutions from 2013 and 2014. |
-| [codemotion-2012](codemotion-2012/) | Java examples from CodeMotion 2012. |
 
 ## Working with the projects
 
