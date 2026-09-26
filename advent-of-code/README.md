@@ -1,6 +1,9 @@
-These are my solutions to [AdventOfCode](https://adventofcode.com/)
+# Advent of Code
 
-- [Solutions for 2024](./2024_go/)
-- [Solutions for 2023](./2023_go/)
-- [Solutions for 2022](./2022_ts/)
-- [Solutions for 2021](./src/adventofcode/y2021/)
+Solutions grouped by year and primary language.
+
+- [2021 — Java](2021/java/)
+- [2022 — TypeScript](2022/typescript/)
+- [2023 — Go](2023/go/)
+- [2024 — Go](2024/go/)
+- [2025 — Go](2025/go/)
