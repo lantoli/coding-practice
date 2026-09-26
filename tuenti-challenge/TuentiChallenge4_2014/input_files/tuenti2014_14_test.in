@@ -1,0 +1,34 @@
+5
+5,2,3
+A 0,0 E 5
+B 0,1 C 10
+C 0,2 B 5
+D 1,1 C 10
+E 1,2 B 2
+A A-B B-E
+D B-D B-C
+3,1,4
+A 0,0 C 20
+B 1,0 C 1
+C 2,0 A 20
+A A-B B-C
+3,1,10
+A 0,0 C 20
+B 1,0 C 4
+C 2,0 A 20
+A A-B B-C
+5,1,10
+A 0,0 B 2
+B 0,1 E 10
+C 0,2 E 15
+D 1,1 A 40
+E 1,2 B 4
+A A-B B-C C-E E-D
+5,2,5
+A 0,0 B 2
+B 0,1 E 10
+C 0,2 D 15
+D 1,1 C 40
+E 1,2 B 4
+A A-B B-E
+B B-D B-C

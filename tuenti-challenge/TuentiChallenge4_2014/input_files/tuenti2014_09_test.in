@@ -1,0 +1,53 @@
+4
+NiceVille
+93 32
+1 5
+NiceVille 0 normal 1
+NiceVille AwesomeVille normal 1
+0 AwesomeVille normal 1
+AwesomeVille NiceVille normal 1
+AwesomeVille 0 normal 3
+StrangeVille
+117 30
+6 12
+StrangeVille 4 dirt 1
+0 4 normal 3
+1 0 dirt 2
+2 5 normal 2
+2 AwesomeVille normal 3
+3 4 dirt 2
+3 0 normal 3
+4 2 normal 3
+4 StrangeVille normal 3
+5 2 normal 3
+5 0 dirt 1
+AwesomeVille 0 normal 3
+UglyVille
+81 42
+9 16
+UglyVille 7 normal 3
+UglyVille 2 normal 1
+0 4 normal 3
+1 5 normal 2
+1 UglyVille dirt 3
+2 0 dirt 3
+3 1 normal 2
+4 1 normal 1
+4 0 dirt 2
+5 AwesomeVille dirt 3
+6 8 dirt 3
+6 5 dirt 3
+7 UglyVille dirt 2
+8 UglyVille dirt 2
+AwesomeVille UglyVille normal 3
+AwesomeVille 8 normal 2
+RandomVille
+88 31
+3 7
+RandomVille AwesomeVille dirt 3
+0 2 normal 1
+0 1 normal 1
+1 2 dirt 2
+1 0 dirt 3
+2 1 dirt 3
+AwesomeVille 2 normal 3
