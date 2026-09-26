@@ -11,7 +11,7 @@ https://github.com/ajimenezh/Programing-Contests/tree/master/Tuenti%20Challenge/
 Thanks also to @alvarogonzalez for insigts to get to this solution.
 
 It can represented by any of these polynomials using Lagrange polynomial:
-https://github.com/lantoli/coding-practice/blob/master/practice/python-examples/sympy/polinomial_interpolation.py
+https://github.com/lantoli/coding-practice/blob/main/practice/python-examples/sympy/polinomial_interpolation.py
 
 x*(-x + 8)*(x/6 - 1/6)*(x/5 - 2/5)*(x/4 - 3/4)*(x/3 - 4/3)*(x/2 - 5/2)*(x - 6) + 35*x*(x/7 - 1/7)*(x/6 - 1/3)*(x/5 - 3/5)*(x/4 - 1)*(x/3 - 5/3)*(x/2 - 3)*(x - 7)/4
 x**8/2880 - x**7/120 + 119*x**6/1440 - 7*x**5/16 + 3829*x**4/2880 - 553*x**3/240 + 167*x**2/80 - 3*x/4
